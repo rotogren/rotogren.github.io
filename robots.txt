@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rotogren.github.io/sitemap
+Sitemap: https://rotogren.github.io/app/sitemap
+Sitemap: https://rotogren.github.io/assets/sitemap
+Sitemap: https://rotogren.github.io/css/sitemap
+Sitemap: https://rotogren.github.io/includes/sitemap
+Sitemap: https://rotogren.github.io/item/sitemap
+Sitemap: https://rotogren.github.io/src/sitemap
